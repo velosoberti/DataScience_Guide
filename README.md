@@ -2,9 +2,9 @@
 Projetos voltados ao mundo do Data Science e Estatística
 <h1 align="center">Hi 👋 Nice to meet you!</h1>
 <h3 align="center">Welcome to my page! </h3>
-<h4 I'm Luis a passionate about Data Universe. Learning every a little more every day! 👌</h3>
+<h4 I'm Luis a passionate about Data Universe. Learning every a little more every day! 👌</h4>
 
-- 🔭 Atualmente estou trabalhando em projetos **de Machine Learning**
+- 🔭 Atualmente estou trabalhando em projetos **de Machine Learning e Data Analytics**
 - Trago minhas experiências com estudos de Estatística e Machine Learning em mini projetos que visam explorar a complexidade e variedade de dados no mundo
 - 🤓 Dentre minhas principais habilidades, destaco o Exel, Python, R, Power BI (storytelling e afins) e SQL
 - ✅ Busco sempre trazer informações e insights novos e poderosos operando sobre a lente do mundo dos negócios e análises de causa raíz
