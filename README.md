@@ -2,7 +2,7 @@
 Projetos voltados ao mundo do Data Science e Estatística
 <h1 align="center">Hi 👋 Nice to meet you!</h1>
 <h3 align="center">Welcome to my page! </h3>
-<h3 I'm Luis a passionate about Data Universe. Learning every a little more every day! 👌</h3>
+<h4 I'm Luis a passionate about Data Universe. Learning every a little more every day! 👌</h3>
 
 - 🔭 Atualmente estou trabalhando em projetos **de Machine Learning**
 - Trago minhas experiências com estudos de Estatística e Machine Learning em mini projetos que visam explorar a complexidade e variedade de dados no mundo
