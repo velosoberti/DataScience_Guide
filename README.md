@@ -10,7 +10,6 @@
 
 
 - Já atua na área dos dados há 3 anos e com diversos trabalhos, estou iniciando meu repositório aqui. A ideia desse repósitório é desenhar minhas habilidades
-- de forma resumida, usando algoritmos e ferramentas estatísticas para resolver mini problemas de datasets diferentes.
 - 📘 Probabilidades, Estimativas, Testes de Hipóteses, Regressões e Previsões com Machine Learning serão um pouco das informações que verá aqui hoje!
 
 
