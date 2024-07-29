@@ -1,16 +1,20 @@
-# Projetos voltados ao mundo do Data Science e Estatística
+# Projects Focused on the World of Data Science and Statistics
+
 <h1 align="center">Hi 👋 Nice to meet you!</h1>
 <h3 align="center">Welcome to my page! </h3>
 <h4 align="center">I'm Luis a passionate about Data Universe. Learning every a little more every day! 👌</h4>
 
-- 🔭 Atualmente estou trabalhando em projetos **de Machine Learning e Data Analytics**
-- Trago minhas experiências com estudos de Estatística e Machine Learning em mini projetos que visam explorar a complexidade e variedade de dados no mundo
-- 🤓 Dentre minhas principais habilidades, destaco o Exel, Python, R, Power BI (storytelling e afins) e SQL
-- ✅ Busco sempre trazer informações e insights novos e poderosos operando sobre a lente do mundo dos negócios e análises de causa raíz
+- 🔭 I am currently working on Machine Learning and Data Analytics projects.
 
+- I bring my experience with Statistics and Machine Learning through mini-projects that aim to explore the complexity and variety of data in the world.
 
-- Já atua na área dos dados há 3 anos e com diversos trabalhos, estou iniciando meu repositório aqui. A ideia desse repósitório é desenhar minhas habilidades
-- 📘 Probabilidades, Estimativas, Testes de Hipóteses, Regressões e Previsões com Machine Learning serão um pouco das informações que verá aqui hoje!
+- 🤓 Among my key skills, I highlight Excel, Python, R, Power BI (storytelling and related), and SQL.
+
+- ✅ I always strive to provide new and powerful insights, operating through the lens of business and root cause analysis.
+
+- Having worked in the data field for 3 years with various projects, I am starting my repository here. The idea of this repository is to showcase my skills.
+
+- 📘 Probability, Estimation, Hypothesis Testing, Regression, and Forecasting with Machine Learning will be some of the topics you'll find here today!
 
 
 <h3 align="left">Connect with me:</h3>
