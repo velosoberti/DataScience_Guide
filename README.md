@@ -13,17 +13,17 @@
 
 ##
 
-# **Projects: **
+# **Projects:**
 
-- Guide to Review and Study of Probabilistic and Inferential Statistics with Python
+- *Guide to Review and Study of Probabilistic and Inferential Statistics with Python*
 
-In this project, I conduct a study on the key points of statistics and inference using Python. Completely self-created, the study begins with probability basics and progresses through fundamental calculations, covering Bernoulli, Binomial, and Poisson probabilities for discrete variables, as well as Normal, Weibull, Exponential, and others for continuous variables.
+### In this project, I conduct a study on the key points of statistics and inference using Python. Completely self-created, the study begins with probability basics and progresses through fundamental calculations, covering Bernoulli, Binomial, and Poisson probabilities for discrete variables, as well as Normal, Weibull, Exponential, and others for continuous variables.
 
-Additionally, in the inference section, I demonstrate how to use libraries like Scipy and Statsmodels to infer means, medians, proportions, and confidence intervals from data, as well as statistical tests and their errors.
+### Additionally, in the inference section, I demonstrate how to use libraries like Scipy and Statsmodels to infer means, medians, proportions, and confidence intervals from data, as well as statistical tests and their errors.
 
-The project concludes with a comprehensive study of regressions, from linear to robust regressions, including their applications and evaluations.
+### The project concludes with a comprehensive study of regressions, from linear to robust regressions, including their applications and evaluations.
 
-This study is complete and I believe it will be highly valuable for those learning more about statistics in Python.
+### This study is complete and I believe it will be highly valuable for those learning more about statistics in Python.
 
 
 <p align="center">
@@ -45,9 +45,9 @@ This study is complete and I believe it will be highly valuable for those learni
 
 ##
 
-- Study Guide and Review of Machine Learning in Supervised Practical Activities
+- *Study Guide and Review of Machine Learning in Supervised Practical Activities*
 
-In this guide, I cover how to handle data for supervised learning algorithms, including inputting missing values, label encoding, scaling, and transformations. I also discuss topics such as optimization with GridSearch and the evaluation of regression and classification models. Finally, I delve into the models themselves, exploring their uses, methods, and functional logic.
+### In this guide, I cover how to handle data for supervised learning algorithms, including inputting missing values, label encoding, scaling, and transformations. I also discuss topics such as optimization with GridSearch and the evaluation of regression and classification models. Finally, I delve into the models themselves, exploring their uses, methods, and functional logic.
 
 <p align="center">
   <a href="https://github.com/velosoberti/DataScience/blob/main/Machine%20Learning%20Project.ipynb" style="
