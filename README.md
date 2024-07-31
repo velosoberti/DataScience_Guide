@@ -15,7 +15,7 @@
 
 # **Projects:**
 
-- *Guide to Review and Study of Probabilistic and Inferential Statistics with Python*
+# - Guide to Review and Study of Probabilistic and Inferential Statistics with Python*
 
 ### In this project, I conduct a study on the key points of statistics and inference using Python. Completely self-created, the study begins with probability basics and progresses through fundamental calculations, covering Bernoulli, Binomial, and Poisson probabilities for discrete variables, as well as Normal, Weibull, Exponential, and others for continuous variables.
 
@@ -45,7 +45,7 @@
 
 ##
 
-- *Study Guide and Review of Machine Learning in Supervised Practical Activities*
+# - Study Guide and Review of Machine Learning in Supervised Prsctical Activities*
 
 ### In this guide, I cover how to handle data for supervised learning algorithms, including inputting missing values, label encoding, scaling, and transformations. I also discuss topics such as optimization with GridSearch and the evaluation of regression and classification models. Finally, I delve into the models themselves, exploring their uses, methods, and functional logic.
 
