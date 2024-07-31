@@ -4,6 +4,70 @@
 <h3 align="center">Welcome to my page! </h3>
 <h4 align="center">I'm Luis a passionate about Data Universe. Learning every a little more every day! 👌</h4>
 
+##
+
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif" width="800" height="600" alt="GIF">
+</p>
+
+##
+
+# **Projects: **
+
+- Guide to Review and Study of Probabilistic and Inferential Statistics with Python
+
+In this project, I conduct a study on the key points of statistics and inference using Python. Completely self-created, the study begins with probability basics and progresses through fundamental calculations, covering Bernoulli, Binomial, and Poisson probabilities for discrete variables, as well as Normal, Weibull, Exponential, and others for continuous variables.
+
+Additionally, in the inference section, I demonstrate how to use libraries like Scipy and Statsmodels to infer means, medians, proportions, and confidence intervals from data, as well as statistical tests and their errors.
+
+The project concludes with a comprehensive study of regressions, from linear to robust regressions, including their applications and evaluations.
+
+This study is complete and I believe it will be highly valuable for those learning more about statistics in Python.
+
+
+<p align="center">
+  <a href="https://github.com/velosoberti/DataScience/blob/main/Projeto_Estatistica_Inferencial_Python.ipynb" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: 2px solid #800080;
+    border-radius: 5px;
+    text-decoration: none;
+  ">
+    Click Here
+  </a>
+</p>
+
+
+##
+
+- Study Guide and Review of Machine Learning in Supervised Practical Activities
+
+In this guide, I cover how to handle data for supervised learning algorithms, including inputting missing values, label encoding, scaling, and transformations. I also discuss topics such as optimization with GridSearch and the evaluation of regression and classification models. Finally, I delve into the models themselves, exploring their uses, methods, and functional logic.
+
+<p align="center">
+  <a href="https://github.com/velosoberti/DataScience/blob/main/Machine%20Learning%20Project.ipynb" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: 2px solid #800080;
+    border-radius: 5px;
+    text-decoration: none;
+  ">
+    Click Here
+  </a>
+</p>
+
+###
+
+
 - 🔭 I am currently working on Machine Learning and Data Analytics projects.
 
 - I bring my experience with Statistics and Machine Learning through mini-projects that aim to explore the complexity and variety of data in the world.
