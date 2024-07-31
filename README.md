@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://www.ghacks.net/wp-content/uploads/2020/10/autowall-demo-2.gif" width="1905" height="1015" alt="GIF">
+  <img src="https://www.ghacks.net/wp-content/uploads/2020/10/autowall-demo-2.gif" width="1280" height="720" alt="GIF">
 </p>
 
 ##
