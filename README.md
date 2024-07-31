@@ -15,7 +15,7 @@
 
 # **Projects:**
 
-### - Guide to Review and Study of Probabilistic and Inferential Statistics with Python*
+- ### Guide to Review and Study of Probabilistic and Inferential Statistics with Python*
 
 #### In this project, I conduct a study on the key points of statistics and inference using Python. Completely self-created, the study begins with probability basics and progresses through fundamental calculations, covering Bernoulli, Binomial, and Poisson probabilities for discrete variables, as well as Normal, Weibull, Exponential, and others for continuous variables.
 
