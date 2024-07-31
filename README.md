@@ -45,7 +45,7 @@
 
 ##
 
-### - Study Guide and Review of Machine Learning in Supervised Prsctical Activities*
+- ### Study Guide and Review of Machine Learning in Supervised Prsctical Activities*
 
 #### In this guide, I cover how to handle data for supervised learning algorithms, including inputting missing values, label encoding, scaling, and transformations. I also discuss topics such as optimization with GridSearch and the evaluation of regression and classification models. Finally, I delve into the models themselves, exploring their uses, methods, and functional logic.
 
