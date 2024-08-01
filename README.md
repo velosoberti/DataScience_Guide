@@ -1,8 +1,6 @@
 # Projects Focused on the World of Data Science and Statistics
 
-<h1 align="center">Hi 👋 Nice to meet </h1>
-<h4 align="center">Learning every a little more every day! 👌</h4>
-
+<h1 align="center">Hi 👋 Nice to meet you ! </h1>
 ##
 
 
