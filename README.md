@@ -1,5 +1,4 @@
-# Projects Focused on the World of Data Science and Statistics
-<h1 align="center">Hi 👋 Nice to meet you ! </h1>
+<h1 align="center"> Projects Focused on the World of Data Science and Statistics</h1>
 
 
 
