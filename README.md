@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://www.ghacks.net/wp-content/uploads/2020/10/autowall-demo-2.gif" width="auto" height="auto" alt="GIF">
+  <img src="https://i.redd.it/ol84mk6keoq01.gif" width="auto" height="auto" alt="GIF">
 </p>
 
 ##
