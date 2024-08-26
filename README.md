@@ -67,7 +67,7 @@
 #### In this project, I develop a simple study guide on forecasting, starting with important concepts such as stationary series, moving averages, performance metrics, and related topics. After this section, I explore forecasting with Moving Averages, Exponential Smoothing and its methods, and ARIMA.
 
 <p align="center">
-  <a href="https://github.com/velosoberti/DataScience/blob/main/SUPERVISED_FORECAST_GUIDE_MOVINGAVERAGE_TO_ARIMA.ipynb" style="
+  <a href="https://github.com/velosoberti/DataScience_Guide/tree/main/FORECASTING%20GUIDE" style="
     display: inline-block;
     padding: 10px 20px;
     font-size: 16px;
