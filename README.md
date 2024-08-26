@@ -64,7 +64,9 @@
 
 ##
 
-#### In this project, I develop a simple study guide on forecasting, starting with important concepts such as stationary series, moving averages, performance metrics, and related topics. After this section, I explore forecasting with Moving Averages, Exponential Smoothing and its methods, and ARIMA.
+#### In this project, I develop a simple study guide on forecasting, starting with important concepts such as stationary series, moving averages, performance metrics, and related topics. After this section.
+
+#### I explore forecasting with Moving Averages, Exponential Smoothing and its methods, and ARIMA.
 
 <p align="center">
   <a href="https://github.com/velosoberti/DataScience_Guide/tree/main/FORECASTING%20GUIDE" style="
