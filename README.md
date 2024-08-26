@@ -47,7 +47,7 @@
 #### I will be adding deep learning soon.
 
 <p align="center">
-  <a href="https://github.com/velosoberti/DataScience/blob/main/Machine%20Learning%20Project.ipynb" style="
+  <a href="https://github.com/velosoberti/DataScience_Guide/tree/main/MACHINE%20LEARNING" style="
     display: inline-block;
     padding: 10px 20px;
     font-size: 16px;
