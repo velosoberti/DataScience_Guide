@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/velosoberti/DataScience/blob/main/STATISTICAL_PROBABILITY_AND_INFERENCE.ipynb" style="
+  <a href="https://github.com/velosoberti/DataScience_Guide/tree/main/STATISTIC" style="
     display: inline-block;
     padding: 10px 20px;
     font-size: 16px;
