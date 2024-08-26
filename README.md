@@ -18,8 +18,6 @@
 
 #### The project concludes with a comprehensive study of regressions, from linear to robust regressions, including their applications and evaluations.
 
-#### This study is complete and I believe it will be highly valuable for those learning more about statistics in Python.
-
 
 <p align="center">
   <a href="https://github.com/velosoberti/DataScience/blob/main/STATISTICAL_PROBABILITY_AND_INFERENCE.ipynb" style="
