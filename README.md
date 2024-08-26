@@ -44,6 +44,10 @@
 
 #### In this guide, I cover how to handle data for supervised and no supervised machine learning algorithms, including inputting missing values, label encoding, scaling, and transformations. I also discuss topics such as optimization with GridSearch and the evaluation of regression and classification models. Finally, I delve into the models themselves, exploring their uses, methods, and functional logic.
 
+#### In this project, I develop a simple study guide on forecasting, starting with important concepts such as stationary series, moving averages, performance metrics, and related topics. After this section, I explore forecasting with Moving Averages, Exponential Smoothing and its methods, and ARIMA. The guide is divided into two folders: one for supervised practical activities and another for unsupervised activities
+
+#### I will be adding deep learning soon.
+
 <p align="center">
   <a href="https://github.com/velosoberti/DataScience/blob/main/Machine%20Learning%20Project.ipynb" style="
     display: inline-block;
@@ -59,6 +63,8 @@
     Click Here
   </a>
 </p>
+
+##
 
 #### In this project, I develop a simple study guide on forecasting, starting with important concepts such as stationary series, moving averages, performance metrics, and related topics. After this section, I explore forecasting with Moving Averages, Exponential Smoothing and its methods, and ARIMA.
 
