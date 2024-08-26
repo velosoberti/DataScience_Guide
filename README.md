@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/velosoberti/DataScience/blob/main/Projeto_Estatistica_Inferencial_Python.ipynb" style="
+  <a href="https://github.com/velosoberti/DataScience/blob/main/STATISTICAL_PROBABILITY_AND_INFERENCE.ipynb" style="
     display: inline-block;
     padding: 10px 20px;
     font-size: 16px;
