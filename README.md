@@ -42,7 +42,7 @@
 
 - ### Study Guide and Review of Machine Learning in Supervised Prsctical Activities*
 
-#### In this guide, I cover how to handle data for supervised learning algorithms, including inputting missing values, label encoding, scaling, and transformations. I also discuss topics such as optimization with GridSearch and the evaluation of regression and classification models. Finally, I delve into the models themselves, exploring their uses, methods, and functional logic.
+#### In this guide, I cover how to handle data for supervised and no supervised machine learning algorithms, including inputting missing values, label encoding, scaling, and transformations. I also discuss topics such as optimization with GridSearch and the evaluation of regression and classification models. Finally, I delve into the models themselves, exploring their uses, methods, and functional logic.
 
 <p align="center">
   <a href="https://github.com/velosoberti/DataScience/blob/main/Machine%20Learning%20Project.ipynb" style="
@@ -60,19 +60,25 @@
   </a>
 </p>
 
+#### In this project, I develop a simple study guide on forecasting, starting with important concepts such as stationary series, moving averages, performance metrics, and related topics. After this section, I explore forecasting with Moving Averages, Exponential Smoothing and its methods, and ARIMA.
+
+<p align="center">
+  <a href="https://github.com/velosoberti/DataScience/blob/main/SUPERVISED_FORECAST_GUIDE_MOVINGAVERAGE_TO_ARIMA.ipynb" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: 2px solid #800080;
+    border-radius: 5px;
+    text-decoration: none;
+  ">
+    Click Here
+  </a>
+</p>
+
 ##
-
-- 🔭 I am currently working on Machine Learning and Data Analytics projects.
-
-- I bring my experience with Statistics and Machine Learning through mini-projects that aim to explore the complexity and variety of data in the world.
-
-- 🤓 Among my key skills, I highlight Excel, Python, R, Power BI (storytelling and related), and SQL.
-
-- ✅ I always strive to provide new and powerful insights, operating through the lens of business and root cause analysis.
-
-- Having worked in the data field for 3 years with various projects, I am starting my repository here. The idea of this repository is to showcase my skills.
-
-- 📘 Probability, Estimation, Hypothesis Testing, Regression, and Forecasting with Machine Learning will be some of the topics you'll find here today!
 
 
 <h3 align="left">Connect with me:</h3>
