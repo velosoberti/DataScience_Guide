@@ -8,9 +8,33 @@
 
 ## 
 
-# **Projects:**
+<h2>Projects Overview</h2>
 
-- ### Guide to Review and Study of Probabilistic and Inferential Statistics with Python*
+
+<ol>
+  <li>
+    <h2 id="guide-to-review-and-study-of-probabilistic-and-inferential-statistics-with-python">
+      Guide to Review and Study of Probabilistic and Inferential Statistics with Python
+    </h2>
+    <p>This project provides a comprehensive review and study of probabilistic and inferential statistics using Python. It starts with foundational concepts in probability, covering various distributions like Bernoulli, Binomial, Poisson, Normal, Weibull, and Exponential. It also demonstrates the use of libraries such as Scipy and Statsmodels for statistical inference, including calculating means, medians, proportions, and confidence intervals, along with performing statistical tests and understanding their errors. The project concludes with a detailed examination of regression techniques, from linear to robust regressions, with applications and evaluations.</p>
+  </li>
+  
+  <li>
+    <h2 id="study-guide-and-review-of-machine-learning-in-supervised-practical-activities">
+      Study Guide and Review of Machine Learning in Supervised Practical Activities
+    </h2>
+    <p>This guide explores how to handle data for both supervised and unsupervised machine learning algorithms. It includes instructions on handling missing values, label encoding, scaling, and transformations. It also covers optimization techniques such as GridSearch and evaluates regression and classification models. The guide is split into two sections: one for supervised practical activities and another for unsupervised activities. Future updates will include deep learning concepts.</p>
+  </li>
+  
+  <li>
+    <h2 id="forecasting-guide">
+      Forecasting Guide
+    </h2>
+    <p>This project presents a straightforward study guide on forecasting methods. It begins with essential concepts such as stationary series, moving averages, and performance metrics. The guide explores various forecasting techniques including Moving Averages, Exponential Smoothing, and ARIMA. It is designed to help users understand and apply these methods effectively in predictive analysis.</p>
+  </li>
+</ol>
+
+- <h2 id="guide-to-review-and-study-of-probabilistic-and-inferential-statistics-with-python"> Guide to Review and Study of Probabilistic and Inferential Statistics with Python* </h2>
 
 #### In this project, I conduct a study on the key points of statistics and inference using Python. Completely self-created, the study begins with probability basics and progresses through fundamental calculations, covering Bernoulli, Binomial, and Poisson probabilities for discrete variables, as well as Normal, Weibull, Exponential, and others for continuous variables.
 
@@ -38,7 +62,7 @@
 
 ##
 
-- ### Study Guide and Review of Machine Learning in Supervised Prsctical Activities*
+- <h2 id="study-guide-and-review-of-machine-learning-in-supervised-practical-activities"> Study Guide and Review of Machine Learning in Supervised Prsctical Activities* </h2>
 
 #### In this guide, I cover how to handle data for supervised and no supervised machine learning algorithms, including inputting missing values, label encoding, scaling, and transformations. I also discuss topics such as optimization with GridSearch and the evaluation of regression and classification models. Finally, I delve into the models themselves, exploring their uses, methods, and functional logic.
 
@@ -64,7 +88,7 @@
 
 ##
 
-#### In this project, I develop a simple study guide on forecasting, starting with important concepts such as stationary series, moving averages, performance metrics, and related topics. After this section.
+- <h2 id="forecasting-guide"> In this project, I develop a simple study guide on forecasting, starting with important concepts such as stationary series, moving averages, performance metrics, and related topics. After this section. </h2>
 
 #### I explore forecasting with Moving Averages, Exponential Smoothing and its methods, and ARIMA.
 
