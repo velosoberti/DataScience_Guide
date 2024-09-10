@@ -10,26 +10,25 @@
 
 <h2>Projects Overview</h2>
 
-
 <ol>
   <li>
-    <h2 id="guide-to-review-and-study-of-probabilistic-and-inferential-statistics-with-python">
+    <a href="#guide-to-review-and-study-of-probabilistic-and-inferential-statistics-with-python">
       Guide to Review and Study of Probabilistic and Inferential Statistics with Python
-    </h2>
+    </a>
     <p>This project provides a comprehensive review and study of probabilistic and inferential statistics using Python. It starts with foundational concepts in probability, covering various distributions like Bernoulli, Binomial, Poisson, Normal, Weibull, and Exponential. It also demonstrates the use of libraries such as Scipy and Statsmodels for statistical inference, including calculating means, medians, proportions, and confidence intervals, along with performing statistical tests and understanding their errors. The project concludes with a detailed examination of regression techniques, from linear to robust regressions, with applications and evaluations.</p>
   </li>
   
   <li>
-    <h2 id="study-guide-and-review-of-machine-learning-in-supervised-practical-activities">
+    <a href="#study-guide-and-review-of-machine-learning-in-supervised-practical-activities">
       Study Guide and Review of Machine Learning in Supervised Practical Activities
-    </h2>
+    </a>
     <p>This guide explores how to handle data for both supervised and unsupervised machine learning algorithms. It includes instructions on handling missing values, label encoding, scaling, and transformations. It also covers optimization techniques such as GridSearch and evaluates regression and classification models. The guide is split into two sections: one for supervised practical activities and another for unsupervised activities. Future updates will include deep learning concepts.</p>
   </li>
   
   <li>
-    <h2 id="forecasting-guide">
+    <a href="#forecasting-guide">
       Forecasting Guide
-    </h2>
+    </a>
     <p>This project presents a straightforward study guide on forecasting methods. It begins with essential concepts such as stationary series, moving averages, and performance metrics. The guide explores various forecasting techniques including Moving Averages, Exponential Smoothing, and ARIMA. It is designed to help users understand and apply these methods effectively in predictive analysis.</p>
   </li>
 </ol>
