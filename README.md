@@ -33,6 +33,7 @@
   </li>
 </ol>
 
+#
 - <h2 id="guide-to-review-and-study-of-probabilistic-and-inferential-statistics-with-python"> Guide to Review and Study of Probabilistic and Inferential Statistics with Python* </h2>
 
 #### In this project, I conduct a study on the key points of statistics and inference using Python. Completely self-created, the study begins with probability basics and progresses through fundamental calculations, covering Bernoulli, Binomial, and Poisson probabilities for discrete variables, as well as Normal, Weibull, Exponential, and others for continuous variables.
