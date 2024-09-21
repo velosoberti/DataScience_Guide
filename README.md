@@ -2,40 +2,26 @@
 
 ## 
 
-<h2>Projects Overview</h2>
+<h1 align="center">Projects Overview</h1>
 
+<p align="center">
+  A collection of projects focused on <u>Data Science</u>, <u>Machine Learning</u>, <u>Statistics</u>, and <u>Forecasting</u>.
+</p>
+
+<hr>
+
+<h2>Table of Contents</h2>
 <ol>
-  <li>
-    <a href="#guide-to-review-and-study-of-probabilistic-and-inferential-statistics-with-python">
-      Guide to Review and Study of Probabilistic and Inferential Statistics with Python
-    </a>
-    <p>This project provides a comprehensive review and study of probabilistic and inferential statistics using Python. It starts with foundational concepts in probability, covering various distributions like Bernoulli, Binomial, Poisson, Normal, Weibull, and Exponential. It also demonstrates the use of libraries such as Scipy and Statsmodels for statistical inference, including calculating means, medians, proportions, and confidence intervals, along with performing statistical tests and understanding their errors. The project concludes with a detailed examination of regression techniques, from linear to robust regressions, with applications and evaluations.</p>
-  </li>
-  
-  <li>
-    <a href="#study-guide-and-review-of-machine-learning-in-supervised-practical-activities">
-      Study Guide and Review of Machine Learning in Supervised Practical Activities
-    </a>
-    <p>This guide explores how to handle data for both supervised and unsupervised machine learning algorithms. It includes instructions on handling missing values, label encoding, scaling, and transformations. It also covers optimization techniques such as GridSearch and evaluates regression and classification models. The guide is split into two sections: one for supervised practical activities and another for unsupervised activities. Future updates will include deep learning concepts.</p>
-  </li>
-  
-  <li>
-    <a href="#forecasting-guide">
-      Forecasting Guide
-    </a>
-    <p>This project presents a straightforward study guide on forecasting methods. It begins with essential concepts such as stationary series, moving averages, and performance metrics. The guide explores various forecasting techniques including Moving Averages, Exponential Smoothing, and ARIMA. It is designed to help users understand and apply these methods effectively in predictive analysis.</p>
-  </li>
+  <li><a href="#guide-to-review-and-study-of-probabilistic-and-inferential-statistics-with-python">Guide to Review and Study of Probabilistic and Inferential Statistics with Python</a></li>
+  <li><a href="#study-guide-and-review-of-machine-learning-in-supervised-practical-activities">Study Guide and Review of Machine Learning in Supervised Practical Activities</a></li>
+  <li><a href="#forecasting-guide">Forecasting Guide</a></li>
 </ol>
 
-#
-- <h2 id="guide-to-review-and-study-of-probabilistic-and-inferential-statistics-with-python"> Guide to Review and Study of Probabilistic and Inferential Statistics with Python* </h2>
+<hr>
 
-#### In this project, I conduct a study on the key points of statistics and inference using Python. Completely self-created, the study begins with probability basics and progresses through fundamental calculations, covering Bernoulli, Binomial, and Poisson probabilities for discrete variables, as well as Normal, Weibull, Exponential, and others for continuous variables.
+<h2 id="guide-to-review-and-study-of-probabilistic-and-inferential-statistics-with-python">Guide to Review and Study of Probabilistic and Inferential Statistics with Python</h2>
 
-#### Additionally, in the inference section, I demonstrate how to use libraries like Scipy and Statsmodels to infer means, medians, proportions, and confidence intervals from data, as well as statistical tests and their errors.
-
-#### The project concludes with a comprehensive study of regressions, from linear to robust regressions, including their applications and evaluations.
-
+<p>This project provides a comprehensive review and study of <u>probabilistic</u> and <u>inferential statistics</u> using <u>Python</u>. It begins with fundamental <u>probability concepts</u>, exploring various distributions like <u>Bernoulli</u>, <u>Binomial</u>, <u>Poisson</u>, <u>Normal</u>, <u>Weibull</u>, and <u>Exponential</u>. The project also covers the use of libraries such as <u>Scipy</u> and <u>Statsmodels</u> for <u>statistical inference</u>, including the calculation of <u>means</u>, <u>medians</u>, <u>proportions</u>, <u>confidence intervals</u>, and performing <u>statistical tests</u>. It concludes with an in-depth exploration of <u>regression techniques</u>, from <u>linear</u> to <u>robust regressions</u>.</p>
 
 <p align="center">
   <a href="https://github.com/velosoberti/DataScience_Guide/tree/main/STATISTIC" style="
@@ -47,22 +33,16 @@
     background-color: #007bff;
     border: 2px solid #800080;
     border-radius: 5px;
-    text-decoration: none;
-  ">
+    text-decoration: none;">
     Click Here
   </a>
 </p>
 
+<hr>
 
-##
+<h2 id="study-guide-and-review-of-machine-learning-in-supervised-practical-activities">Study Guide and Review of Machine Learning in Supervised Practical Activities</h2>
 
-- <h2 id="study-guide-and-review-of-machine-learning-in-supervised-practical-activities"> Study Guide and Review of Machine Learning in Supervised Prsctical Activities* </h2>
-
-#### In this guide, I cover how to handle data for supervised and no supervised machine learning algorithms, including inputting missing values, label encoding, scaling, and transformations. I also discuss topics such as optimization with GridSearch and the evaluation of regression and classification models. Finally, I delve into the models themselves, exploring their uses, methods, and functional logic.
-
-#### In this project, I develop a simple study guide on forecasting, starting with important concepts such as stationary series, moving averages, performance metrics, and related topics. After this section, I explore forecasting with Moving Averages, Exponential Smoothing and its methods, and ARIMA. The guide is divided into two folders: one for supervised practical activities and another for unsupervised activities
-
-#### I will be adding deep learning soon.
+<p>This guide covers how to handle data for both <u>supervised</u> and <u>unsupervised machine learning algorithms</u>. Key topics include handling <u>missing values</u>, <u>label encoding</u>, <u>scaling</u>, and <u>data transformations</u>. Additionally, it explores <u>model optimization</u> techniques like <u>GridSearch</u> and evaluates both <u>regression</u> and <u>classification models</u>. The guide is divided into two parts: one for <u>supervised practical activities</u> and the other for <u>unsupervised activities</u>. Future updates will include <u>deep learning concepts</u>.</p>
 
 <p align="center">
   <a href="https://github.com/velosoberti/DataScience_Guide/tree/main/MACHINE%20LEARNING" style="
@@ -74,17 +54,16 @@
     background-color: #007bff;
     border: 2px solid #800080;
     border-radius: 5px;
-    text-decoration: none;
-  ">
+    text-decoration: none;">
     Click Here
   </a>
 </p>
 
-##
+<hr>
 
-- <h2 id="forecasting-guide"> In this project, I develop a simple study guide on forecasting, starting with important concepts such as stationary series, moving averages, performance metrics, and related topics. After this section. </h2>
+<h2 id="forecasting-guide">Forecasting Guide</h2>
 
-#### I explore forecasting with Moving Averages, Exponential Smoothing and its methods, and ARIMA.
+<p>This project presents a study guide on <u>forecasting methods</u>, starting with essential concepts such as <u>stationary series</u>, <u>moving averages</u>, and <u>performance metrics</u>. It then explores techniques like <u>Moving Averages</u>, <u>Exponential Smoothing</u>, and <u>ARIMA</u>, designed to provide practical understanding and applications in <u>predictive analysis</u>.</p>
 
 <p align="center">
   <a href="https://github.com/velosoberti/DataScience_Guide/tree/main/FORECASTING%20GUIDE" style="
@@ -96,11 +75,11 @@
     background-color: #007bff;
     border: 2px solid #800080;
     border-radius: 5px;
-    text-decoration: none;
-  ">
+    text-decoration: none;">
     Click Here
   </a>
 </p>
+
 
 ##
 
